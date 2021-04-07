@@ -1,0 +1,5 @@
+1 please put scfc xml, targetbd xml and gen_iphy.py in one folder
+2 cmd example: python gen_iphy.py -s full_scfc_1.xml -t TargetBD_SBTS21B_ENB_9999_210310_000005.xml
+3 then you will get your iphy.xml
+
+note:SCFC xml must FULL file
